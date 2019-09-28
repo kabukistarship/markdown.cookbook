@@ -4,7 +4,7 @@
 
 ### Configuration
 
-
+This is a stub.
 
 **[<< Previous Section:Configuration](./configuration.md) | [Next Section:Document Structure >>](../document_structure/readme.md)**
 

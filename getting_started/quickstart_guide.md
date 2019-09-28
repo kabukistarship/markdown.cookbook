@@ -4,21 +4,13 @@
 
 ### Quickstart Guide
 
-**1.** Clone the repository recursively:
+**1.** Clone the repo:
 
 ```Bash
-git clone --recursive https://github.com/kabuki-starship/markdown.cookbook.git
+git clone https://github.com/kabuki-starship/markdown.cookbook.git
 ```
 
-**2.** Delete the `/docs/.git` folder.
-
-**3.** Download and install [Visual Studio Code](https://code.visualstudio.com).
-
-**4.** Open Visual Studio, right click on the workspace and click on `Add Folder to Workspace`, navigate to the clone of this repo and click `Add`.
-
-**5.** Find and replace "Markdown Cookbook" in all files with the name of your Cookbook and `Your Name` with the name of the copyright holder. The license in this book is designed to allow you to sell the Cookbook to fund your project. If you want to change the license just find and replace the entire license line with the desired license.
-
-**6.** Read the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/tree/master/documentation/cookbooks.md) section on how to create a Cookbook.
+**2.** Read the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/tree/master/doc/markdown_templates/readme.md) for instructions on how to use the Markdown templates.
 
 **[<< Previous Section:Getting Started](./readme.md) | [Next Section:Command Line Usage >>](./command_line_usage.md)**
 
