@@ -10,7 +10,7 @@
 git clone https://github.com/kabuki-starship/markdown.cookbook.git
 ```
 
-**2.** Read the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/tree/master/doc/markdown_templates/readme.md) for instructions on how to use the Markdown templates.
+**2.** Read the [Astartup Cookbook](https://github.com/kabuki-starship/astartup.cookbook/tree/master/getting_started/markdown/readme.md) for instructions on how to use the Markdown templates.
 
 **[<< Previous Section:Getting Started](./readme.md) | [Next Section:Command Line Usage >>](./command_line_usage.md)**
 
