@@ -4,7 +4,7 @@
 
 ### Command Line Usage
 
-
+This is a stub.
 
 **[<< Previous Section:Quickstart Guide](./quickstart_gude.md) | [Next Section:Configuration >>](./configuration.md)**
 
