@@ -4,13 +4,13 @@
 
 **1.** Ensure the bug was not already reported by by reading the [Issues](https://github.com/abc_org/xyz_project/issues).
 
-**2.** Open `/docs/BUG_REPORT_TEMPLATE.md` and copy it's contents to the clipboard.
+**2.** Open `/docs/BUG_REPORT_TEMPLATE` and copy it's contents to the clipboard.
 
 **3.** Create an issue, paste the template into the Issue body and fill it out.
 
 ### Feature Requests
 
-**1.** Same as the instructions for submitting a bug report except with using `/docs/FEATURE_REQUEST.md`.
+**1.** Same as the instructions for submitting a bug report except with using `/docs/FEATURE_REQUEST`.
 
 ### Completing Issues
 
@@ -30,7 +30,7 @@ git commit -m "module_id.Add feature XYZ. #123"
 git push origin Issue123
 ```
 
-**3.** Create a Pull Requesting using the `/docs/PULL_REQUEST_TEMPLATE.md`
+**3.** Create a Pull Requesting using the `/docs/PULL_REQUEST_TEMPLATE`
 
 **4.** Get others to inspect your changes and merge the branch to the master.
 
