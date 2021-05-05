@@ -4,7 +4,7 @@ The mission of Markdown Cookbook is to help you create Don't Repeat Yourself (DR
 
 ## Navigation
 
-**[<< Previous Section:Quickstart Guide](./quickstart_gude) | [Next Section:Configuration >>](./configuration)**
+**[<< Previous Section: Markdown Cookbook](../) | [Next Section: Getting Started >>](../getting_started)**
 
 * [Markdown Cookbook](../)
    * [Getting Started](./)

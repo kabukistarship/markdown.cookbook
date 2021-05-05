@@ -3,14 +3,14 @@
 **1.** Clone the repo:
 
 ```Bash
-git clone https://github.com/KabukiStarship/markdown.cookbook.git
+git clone https://github.com/CookingWithCale/MarkdownCookbook.git
 ```
 
-**2.** Read the [Astartup Cookbook](https://github.com/KabukiStarship/Astartup.cookbook/tree/master/getting_started/markdown/) for instructions on how to use the Markdown templates.
+**2.** Read the [AStartup Cookbook](https://github.com/CookingWithCale/AStartupCookbook/blob/master/GettingStarted/Markdown.md) for instructions on how to use the Markdown templates.
 
 ## Navigation
 
-**[<< Previous Section:Getting Started](./) | [Next Section:Command Line Usage >>](./command_line_usage)**
+**[<< Previous Section:Getting Started](../) | [Next Section: Selecting a License >>](../selecting_a_license)**
 
 * [Markdown Cookbook](../)
    * [Getting Started](./)

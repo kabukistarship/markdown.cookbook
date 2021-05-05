@@ -4,7 +4,7 @@
 
 ## Navigation
 
-**[<< Previous Section: Configuration and Build System](../getting_started/configuration_and_build_system) | [Next Section: Appendix >>](../appendix)**
+**[<< Previous Section: Selecting a License](../getting_started/selecting_a_license) | [Next Section: Appendix >>](../appendix)**
 
 * [Markdown Cookbook](../)
    * Bibliography

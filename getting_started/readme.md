@@ -1,6 +1,6 @@
 ## Getting Started
 
-Markdown Cookbook is a template for a Cookbook for software products.
+Markdown Cookbook is a template for a writing books in Markdown with Jekyll. Jekyll is a statically generated website generator used by GitHub pages that provides free web hosting for your book with methods to get paid membership subscriptions through alternative methods like YouTube, Patreon, and custom website.
 
 ## Navigation
 
