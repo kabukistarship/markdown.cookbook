@@ -1,10 +1,13 @@
-## Result
+### Configuration and Build System
 
-The result of the Mission was...
+This is a stub.
 
-### Tests Performed
+## Navigation
 
-This was tested by...
+**[<< Previous Section: Configuration and Build System](../configuration_and_build_system) | [Next Section: Document Structure >>](../document_structure/)**
+
+* [Markdown Cookbook](../)
+   * [Getting Started](./)
 
 ## Abbreviated License
 

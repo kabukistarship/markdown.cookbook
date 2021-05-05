@@ -1,10 +1,17 @@
-## Result
+# [Markdown Cookbook](../)
 
-The result of the Mission was...
+## [Getting Started](./)
 
-### Tests Performed
+### Command Line Usage
 
-This was tested by...
+This is a stub.
+
+## Navigation
+
+**[<< Previous Section:Quickstart Guide](../quickstart_gude) | [Next Section: Configuration and Build System >>](../configuration_and_build_system)**
+
+* [Markdown Cookbook](../)
+   * [Getting Started](./)
 
 ## Abbreviated License
 
